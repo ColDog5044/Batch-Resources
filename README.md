@@ -12,3 +12,5 @@ Resources to utilize for batch scripts
 ---
 
 [Tricks With Scrips](https://www.writeurl.com/publish/xzzp13n929mr7a6jgbuj)
+
+[Enhance Batch Scrips with GUI](https://medium.com/swlh/how-to-enhance-your-windows-batch-files-by-adding-gui-7287d89ebad6)
